@@ -18,13 +18,6 @@ return;
     }
 
 }
-
-
-
-
-
-
-
 return(
     <div>
         <div><h1>ATM BANKING</h1></div>
@@ -63,10 +56,7 @@ return(
     </div>
 
 );
-
-
 };
-
 ReactDOM.render(
     <AtmBank/>,
     document.getElementById('root')
